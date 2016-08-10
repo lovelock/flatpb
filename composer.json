@@ -3,6 +3,9 @@
     "description": "Bidirectional transfer of PHP array and Protocol Buffer.",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {"FlatPB\\": "src/"}
+    },
     "authors": [
         {
             "name": "Frost Wong",
