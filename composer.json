@@ -1,0 +1,13 @@
+{
+    "name": "lovelock/flatpb",
+    "description": "Bidirectional transfer of PHP array and Protocol Buffer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frost Wong",
+            "email": "frostwong@gmail.com"
+        }
+    ],
+    "require": {}
+}
